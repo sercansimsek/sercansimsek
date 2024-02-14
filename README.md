@@ -28,6 +28,6 @@ Here are a few projects I've worked on:
    - [Project DEMO](https://sercansimsek.github.io/quiz-app/)
 
 ## Connect with Me
-Feel free to reach out to me through [LinkedIn](www.linkedin.com/in/sercan-simsek593152). I'm always interested in collaborating on exciting projects or just having a chat about frontend development!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/sercan-simsek593152). I'm always interested in collaborating on exciting projects or just having a chat about frontend development!
 
 Happy coding! 🚀
