@@ -2,7 +2,7 @@
 <p align="center" ><img src="https://wallpapercave.com/wp/wp11723453.png" height="300" width="500"/></p>
 
 <h1 align="center">Hi 👋, I'm Sercan!</h1>
-<h3 align="left">I'm a frontend developer passionate about creating delightful and user-friendly web experiences. With expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React, I strive to build robust and responsive applications that meet user needs.</h3>
+<h3 align="left">I'm a software developer passionate about creating delightful and user-friendly web experiences. With expertise in HTML, CSS, JavaScript, and modern frontend frameworks like React, I strive to build robust and responsive applications that meet user needs.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sercansimsek&label=Profile%20views&color=0e75b6&style=flat" alt="sercansimsek" /> </p>
 
