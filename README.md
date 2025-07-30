@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sercansimsek.github.io/personal-portfolio/#/)
 
-- 💬 Ask me about **React.js**
-
 - 📫 How to reach me **[Mail](sercan.simsek@outlook.com)**
 
 <h3 align="left">Connect with me:</h3>
