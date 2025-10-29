@@ -6,10 +6,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sercansimsek&label=Profile%20views&color=0e75b6&style=flat" alt="sercansimsek" /> </p>
 
-- 🌱 I’m currently learning **SQL, Node.js**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sercansimsek.github.io/personal-portfolio/#/)
-
 - 📫 How to reach me **[Mail](sercan.simsek@outlook.com)**
 
 <h3 align="left">Connect with me:</h3>
